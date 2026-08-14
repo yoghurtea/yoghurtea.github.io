@@ -1,8 +1,8 @@
-# yoghurtea.github.io
+# yyyy
 
 欢迎来到我的小站。这里会放一些随手记录、学习笔记，以及偶尔冒出来的新想法。
 
-![红发蒙面角色三视图](assets/character-design.png)
+![11](assets/11.jpg)
 
 > 慢慢记录，认真生活。
 
